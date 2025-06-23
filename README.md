@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project 1: Build a Web App using ECDSA
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
@@ -124,3 +125,7 @@ To pass **Phase 3**:
 ## Sample Solution
 
 Want to peek at a solution while you craft your own? Check [this repo](https://github.com/AlvaroLuken/exchange-secp256k1) out.
+=======
+# wallet-demo
+Proyecto educativo para comprender cómo funcionan las firmas digitales y la gestión de wallets en una blockchain tipo Ethereum.
+>>>>>>> 583468b23a3498a93bb3249c26c3dc5f76d5714a
